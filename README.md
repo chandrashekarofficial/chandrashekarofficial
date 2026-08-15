@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Chandra Shekar 🎓 Student | 💻 Aspiring Developer<br>🌱 Currently learning: Python, HTML/CSS, JavaScript<br>🔭 Working on: Small web projects and coding challenges
-
+//
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chandrashekar1036) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chandrashekar3_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandrashekark28chandu@gmail.com) 
