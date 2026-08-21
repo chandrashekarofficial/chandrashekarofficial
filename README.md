@@ -10,7 +10,7 @@ Hi, I'm Chandrashekar K 👋<br><br>Full-Stack Developer | BCA Student<br><br>I 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=chandrashekarofficial&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=chandrashekarofficial&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=chandrashekarofficial&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=chandrashekarofficial&icon=6&color=4)](https://visitcount.itsvg.in)
