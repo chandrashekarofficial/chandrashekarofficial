@@ -13,6 +13,3 @@ Hi, I'm Chandrashekar K 👋<br><br>Full-Stack Developer | BCA Student<br><br>I 
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=chandrashekarofficial&icon=6&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
